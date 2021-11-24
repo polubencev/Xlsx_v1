@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>exit.png</file>
+        <file>start.png</file>
+        <file>reset.png</file>
+        <file>about.png</file>
+        <file>exit2.png</file>
+        <file>sort.png</file>
+        <file>analys.png</file>
+        <file>delete.png</file>
+    </qresource>
+    <qresource prefix="/animation">
+        <file>loads.gif</file>
+    </qresource>
+</RCC>
